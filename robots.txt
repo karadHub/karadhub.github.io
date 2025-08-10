@@ -3,3 +3,16 @@ Allow: /
 
 Sitemap: https://karadhub.dev/sitemap.xml
 Host: karadhub.dev
+
+# Block sensitive folders
+Disallow: /assets/private/
+Disallow: /admin/
+
+# Allow important sections
+Allow: /#about
+Allow: /#blog
+Allow: /#contact
+Allow: /#tech-stack
+Allow: /#projects
+Allow: /#skills
+Allow: /#stats

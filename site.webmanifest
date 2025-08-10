@@ -1,28 +1,28 @@
 {
-  "name": "karadhub.dev",
-  "short_name": "VK",
+  "name": "Vaibhav Karad DevOps Portfolio",
+  "short_name": "VaibhavK",
   "start_url": "/?utm_source=web_app_manifest",
   "scope": "/",
   "display": "standalone",
-  "theme_color": "#F44336",
+  // ...existing code...
   "background_color": "#0c0c0c",
-  "description": "karadhub.dev – Personal site of Vaibhav Karad. Explore projects, blogs, and more.",
+    "description": "Explore the DevOps portfolio of Vaibhav Karad – updated August 2025. Showcasing expertise in cloud infrastructure, CI/CD pipelines, Kubernetes, and automation. Built for developers, teams, and recruiters seeking real-world solutions.",
   "lang": "en-US",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "/assets/apple-touch-icon.png",
+      "src": "/assets/site/apple-touch-icon.png",
       "sizes": "180x180",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/assets/web-app-manifest-192x192.png",
+      "src": "/assets/site/web-app-manifest-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/assets/web-app-manifest-512x512.png",
+      "src": "/assets/site/web-app-manifest-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
@@ -32,17 +32,17 @@
     {
       "name": "About Me",
       "url": "/#about",
-      "icons": [{ "src": "/assets/favicon-96x96.png", "sizes": "96x96" }]
+      "icons": [{ "src": "/assets/site/favicon-96x96.png", "sizes": "96x96" }]
     },
     {
       "name": "Blog",
       "url": "/#blog",
-      "icons": [{ "src": "/assets/favicon-96x96.png", "sizes": "96x96" }]
+      "icons": [{ "src": "/assets/site/favicon-96x96.png", "sizes": "96x96" }]
     },
     {
       "name": "Contact",
       "url": "/#contact",
-      "icons": [{ "src": "/assets/favicon-96x96.png", "sizes": "96x96" }]
+      "icons": [{ "src": "/assets/site/favicon-96x96.png", "sizes": "96x96" }]
     }
   ]
 }
