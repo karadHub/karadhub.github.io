@@ -1,5 +1,9 @@
 # Vaibhav Karad — DevOps & SRE Portfolio
 
+<p align="center">
+	<img src="img/profile-banner.jpg" alt="Vaibhav Karad — profile banner" style="width:100%; max-width:1100px; height:auto; border-radius:6px;" />
+</p>
+
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.karadhub.dev&label=karadhub.dev)](https://www.karadhub.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vaibhav--karad-blue)](https://www.linkedin.com/in/vaibhav-karad/)
 [![GitHub](https://img.shields.io/badge/GitHub-karadhub-black?logo=github)](https://github.com/karadhub)
